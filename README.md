@@ -1,5 +1,6 @@
 # MOMA-NYU
-MOMA project 
+MOMA WAYFINDING
+ 
 Developed during an NYU summer research program focused on The Museum of Modern Art (MoMA), this augmented reality navigation app addresses wayfinding challenges for museum visitors, particularly international tourists and first-time guests. The application streamlines navigation by detecting the user's current floor, identifying nearby amenities—such as restrooms, accessible facilities, water fountains, and dining spaces—and generating interactive 3D directions directly over the physical environment using live AR simulation.
 
 Features
